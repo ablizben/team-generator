@@ -19,7 +19,7 @@ The purpose of this homework was to create a Node CLI that takes in information 
 <h3>Team Generator Criteria</h3>
 <li>As a user, I want to generate a webpage that displays my team's basic info,so that I have quick access to emails and GitHub profiles</li>
 
-<img src="console.png">
+<img src="questions.png">
 <img src="htmlfile.png">
 
 <h3><a href="https://drive.google.com/file/d/1os17imC0ey9oKD8D2kowcVwpN818ome_/view">Link to Demo</a></h3>
