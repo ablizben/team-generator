@@ -22,4 +22,4 @@ The purpose of this homework was to create a Node CLI that takes in information 
 <img src="questions.png">
 <img src="htmlfile.png">
 
-<h3><a href="https://drive.google.com/file/d/1os17imC0ey9oKD8D2kowcVwpN818ome_/view">Link to Demo</a></h3>
+<center><h3><a href="https://drive.google.com/file/d/1os17imC0ey9oKD8D2kowcVwpN818ome_/view">Link to Demo</a></h3></center>
