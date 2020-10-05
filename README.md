@@ -41,6 +41,6 @@ If you'd like to get a copy of the project up and running on your local machine 
 
 ## Built With
 
-- [Node.js](https://nodejs.org/en/) - Javascript Runtime Environment
+- [Node.js](https://nodejs.org/en/) - JavaScript Runtime Environment
 - JavaScript, HTML, CSS
 
